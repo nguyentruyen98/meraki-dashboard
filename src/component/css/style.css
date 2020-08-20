@@ -1,0 +1,90 @@
+#green{
+    background: #eee;
+}
+#line{
+    background: #f8f8f8;
+}
+#mks-cli-wired-on {
+    background-image: url("https://n6.meraki.com/images/mks/cli-wired-on.svg");
+    background-repeat: no-repeat;
+    height: 14px;
+    width: 14px;
+    display: inline-block; 
+    margin-top: 16px;
+    margin-left: 20px;
+}
+#mks-cli-wired-off {
+    background-image: url("https://n6.meraki.com/images/mks/cli-wired-off.svg");
+    background-repeat: no-repeat;
+    height: 14px;
+    width: 14px;
+    display: inline-block; 
+    margin-top: 16px;
+    margin-left: 20px;
+}
+#mks-cli-wireless-on {
+    background-image: url("https://n6.meraki.com/images/mks/cli-wireless-on.svg");
+    background-repeat: no-repeat;
+    height: 14px;
+    width: 14px;
+    display: inline-block; 
+    margin-top: 16px;
+    margin-left: 20px;
+}
+#mks-cli-wireless-off {
+    background-image: url("https://n6.meraki.com/images/mks/cli-wireless-off.svg");
+    background-repeat: no-repeat;
+    height: 14px;
+    width: 14px;
+    display: inline-block; 
+    margin-top: 16px;
+    margin-left: 20px;
+}
+#name{
+    color: #1D770B;
+    text-decoration: underline;
+}
+.header{
+    border: 2px solid #8b8b8b;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+}
+.title{
+    width: 1000px;
+    text-align: center;
+    margin-top: 2em;
+    line-height: 2em;
+}
+.dot {
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    display: inline-flex;
+    margin-right: 10px;
+}
+.online{
+    background-color: #67b346;
+}
+.offline{
+    background-color: #bbb;
+}
+.dormant{
+    background-color: red;
+}
+
+.hihi{
+    background-color: orange;
+
+}
+.container{
+    text-align: center;
+    font-size: 15px;
+}
+#mart{
+    margin-top: 205px;
+}
